@@ -1,4 +1,4 @@
-# Preface
+# This was cloned from (rustlings)[https://github.com/rust-lang/rustlings]
 
 This is second time I did all exercises, the last time was three years ago(time goes so fast!)
 when my coworker introduced it to me.
